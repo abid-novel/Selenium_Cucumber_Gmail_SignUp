@@ -4,6 +4,7 @@
 1. Need to install jdk 8 or 11 or any LTS version
 2. Download and extract Apache Maven any latest version
 3. Set Up JAVA_HOME and MAVEN_HOME
+4. Configure Java and Maven to the environment path
 
 ## How to Run the Project
 1. Clone the repository
